@@ -6,4 +6,5 @@
 [Bb]in
 *.user
 *.suo
+*.nupkg
 

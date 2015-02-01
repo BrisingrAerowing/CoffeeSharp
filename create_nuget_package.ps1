@@ -15,10 +15,10 @@ Copy-Item src\Coffee\bin\Release\Coffee.exe       NuGet\tool
 Copy-Item src\Coffee\bin\Release\CoffeeSharp.dll  NuGet\tool
 Copy-Item src\Coffee\bin\Release\Jurassic.dll     NuGet\tool
 
-Copy-Item src\CoffeeSharp.nuspec  NuGet
+Copy-Item src\CoffeeSharp-GS.nuspec  NuGet
 
 # actual packaging
-tools\NuGet.exe pack NuGet\CoffeeSharp.nuspec
+tools\NuGet.exe pack NuGet\CoffeeSharp-GS.nuspec
 
 # cleanup
 remove-item -recurse -force  NuGet

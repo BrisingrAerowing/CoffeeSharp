@@ -62,13 +62,13 @@ namespace CoffeeSharp {
         
         /// <summary>
         ///   Looks up a localized string similar to /**
-        /// * CoffeeScript Compiler v1.9.0
+        /// * CoffeeScript Compiler v1.9.3
         /// * http://coffeescript.org
         /// *
         /// * Copyright 2011, Jeremy Ashkenas
         /// * Released under the MIT License
         /// */
-        ///(function(root){var CoffeeScript=function(){function require(e){return require[e]}return require[&quot;./helpers&quot;]=function(){var e={},t={exports:e};return function(){var t,n,i,r,s,o,a;e.starts=function(e,t,n){return t===e.substr(n,t.length)},e.ends=function(e,t,n){var i;return i=t.length,t===e.substr(e.length-i-(n||0),i)},e.repeat=s=function(e,t){var n;for(n=&quot;&quot;;t&gt;0;)1&amp;t&amp;&amp;(n+ [rest of string was truncated]&quot;;.
+        ///(function(root){var CoffeeScript=function(){function require(e){return require[e]}return require[&quot;./helpers&quot;]=function(){var e={},t={exports:e};return function(){var t,n,i,r,s,o;e.starts=function(e,t,n){return t===e.substr(n,t.length)},e.ends=function(e,t,n){var i;return i=t.length,t===e.substr(e.length-i-(n||0),i)},e.repeat=s=function(e,t){var n;for(n=&quot;&quot;;t&gt;0;)1&amp;t [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string CoffeeScriptSource {
             get {

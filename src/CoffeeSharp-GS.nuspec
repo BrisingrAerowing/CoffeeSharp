@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>CoffeeSharp-GS</id>
+    <id>CoffeeSharp</id>
     <version>0.6</version>
-    <authors>Tom Lokhorst, Zachary Greve</authors>
+    <authors>Tom Lokhorst</authors>
     <description>
 CoffeeScript compiler for Windows.
 With a HttpHandler, command-line tool and a .NET library.
